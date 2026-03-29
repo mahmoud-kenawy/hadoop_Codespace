@@ -94,4 +94,3 @@ hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
 ```bash
 hdfs dfs -cat /user/cloudera/stocks_output/part-00000
 ```
-
